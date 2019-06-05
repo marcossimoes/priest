@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eab98444-c27d-49da-ac77-4debff6eeb65" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/priest/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#170#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input-old.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>adh-higher</find>
+      <find>sellers</find>
+      <find>generating</find>
+      <find>(defn seller-adherence</find>
+      <find>seller-adherence</find>
+      <find>regions</find>
+      <find>nxt-region</find>
+      <find>nxt-regions-remaining-leadtimes</find>
+      <find>leadtimes</find>
+      <find>num-regions-seller-delivers-to-any-template</find>
+      <find>n-templates-with-max-avg-adh</find>
+      <find>sellers-per-promise</find>
+      <find>sellers-promises</find>
+      <find>*</find>
+      <find>Creating lazy-seq</find>
+      <find>template-content-avg-adherence*</find>
+      <find>template-content</find>
+      <find>templates-content</find>
+      <find>regions-sellers</find>
+      <find>println</find>
+      <find>template-content-avg-adherence</find>
+      <find>template-with-avg-adherence</find>
+      <find>add-template-and-ord</find>
+      <find>(println &quot;sellers count 1: &quot; (count (:sellers sellers-promises)))</find>
+      <find>(println &quot;sellers count</find>
+      <find>template-scheme</find>
+      <find>regions-leadtimes</find>
+      <find>regions-count-per-seller</find>
+      <find>;;(println</find>
+      <find>num-promises-seller-adheres</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>templates</replace>
+      <replace>template</replace>
+      <replace>,</replace>
+      <replace>,temapltes-with-id</replace>
+      <replace>teampltes-with-id</replace>
+      <replace>leadtimes</replace>
+      <replace>leadtime</replace>
+      <replace>regions-leadtimes</replace>
+      <replace>regions-with-count-leadtimes</replace>
+      <replace>regions-with-reset-leadtimes-index</replace>
+      <replace>regions-with-leadtimes-count</replace>
+      <replace>num-regions-seller-delivers-to</replace>
+      <replace>sellers-promises</replace>
+      <replace>promises-sellers</replace>
+      <replace>distribution</replace>
+      <replace>leadtimes-seller-count</replace>
+      <replace>promises-seller-count</replace>
+      <replace>leadtimes-by-most-sellers</replace>
+      <replace>leadtimes-seller-count-by-most-sellers</replace>
+      <replace>promises-seller-count-by-most-sellers</replace>
+      <replace>promises-by-most-sellers</replace>
+      <replace>seller-in-leadtimes-sellers</replace>
+      <replace>sellers-regions-count</replace>
+      <replace>region-unique-sellers</replace>
+      <replace>templates-by-highest-adh</replace>
+      <replace>added-template-by-highest-adh</replace>
+      <replace>added-if-adh-higher-then-min</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/input-old.csv" />
+        <option value="$PROJECT_DIR$/input.csv" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/priest/core.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="priest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="priest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="priest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="priest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559668038480" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReplState" timestamp="1559668057503">{:repl-history {:ide [], :local [{:command &quot;(sellers-promises (sellers-per-promise \&quot;input.csv\&quot;))&quot;, :offset 49, :ns &quot;priest.core&quot;} {:command &quot;(sellers (sellers-promises (sellers-per-promise \&quot;input.csv\&quot;)))&quot;, :offset 62, :ns &quot;priest.core&quot;} {:command &quot;(regions-leadtimes (sellers-promises (sellers-per-promise \&quot;input.csv\&quot;)))&quot;, :offset 68, :ns &quot;priest.core&quot;} {:command &quot;(merge {} {:a 1 :b 2})&quot;, :offset 20, :ns &quot;priest.core&quot;} {:command &quot;(merge {:a 0} {:a 1 :b 2})&quot;, :offset 12, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n     (sellers-promises-scheme)\n     (sellers)\n     (regions)\n     (regions-leadtimes))&quot;, :offset 125, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n     (sellers-promises-scheme)\n     (sellers)\n     (regions)\n     (regions-leadtimes)\n     (regions-count-per-seller))&quot;, :offset 155, :ns &quot;priest.core&quot;} {:command &quot;(vals {:a 1 :b 2\n       })&quot;, :offset 24, :ns &quot;priest.core&quot;} {:command &quot;(set [1 1 2\n      ])&quot;, :offset 7} {:command &quot;(-&gt;&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n     (sellers-promises-scheme)\n     (sellers)\n     (regions)\n     (regions-leadtimes)\n     (regions-count-per-seller)\n     )&quot;, :offset 163, :ns &quot;priest.core&quot;} {:command &quot;(val (first (sellers-per-promise \&quot;input.csv\&quot;)))&quot;, :offset 5, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n     (sellers-promises-scheme)\n     (sellers)\n     (regions)\n     (regions-leadtimes)\n     (regions-count-per-seller)\n     (regions-sellers))&quot;, :offset 180, :ns &quot;priest.core&quot;} {:command &quot;(cset/union #{#{1} #{1 \n                     2}})&quot;, :offset 45, :ns &quot;priest.core&quot;} {:command &quot;(apply cset/union #{#{1} #{1 \n                     2}})&quot;, :offset 7, :ns &quot;priest.core&quot;} {:command &quot;#{#{1\n    }}&quot;, :offset 10, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv #{(-&gt; %3 (vals) (apply cset/union))})&quot;, :offset 44, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv #(-&gt; %3 (vals) (apply cset/union)) (sellers-per-promise \&quot;input.csv\&quot;))&quot;, :offset 80, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv #(assoc %1 %2 (-&gt; %3 (vals) (apply cset/union))) {} (sellers-per-promise \&quot;input.csv\&quot;))&quot;, :offset 21, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv #(assoc %1 %2 (-&gt; %3 (vals) (cset/union))) {} (sellers-per-promise \&quot;input.csv\&quot;))&quot;, :offset 40, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv #(assoc %1 %2 (-&gt;&gt; %3 (vals) (cset/union))) {} (sellers-per-promise \&quot;input.csv\&quot;))&quot;, :offset 29, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv #(assoc %1 %2 (-&gt;&gt; %3 (vals) (apply cset/union))) {} (sellers-per-promise \&quot;input.csv\&quot;))&quot;, :offset 47, :ns &quot;priest.core&quot;} {:command &quot;(vec #{1 2 3\n       })&quot;, :offset 20, :ns &quot;priest.core&quot;} {:command &quot;(first nil)&quot;, :offset 10, :ns &quot;priest.core&quot;} {:command &quot;(first #{1 2 3})&quot;, :offset 14, :ns &quot;priest.core&quot;} {:command &quot;(-&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n    (regions))&quot;, :offset 52, :ns &quot;priest.core&quot;} {:command &quot;(:regions (-&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n              (regions)))&quot;, :offset 9, :ns &quot;priest.core&quot;} {:command &quot;(:regions (-&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n              (sellers-promises-scheme)\n              (regions)))&quot;, :offset 113, :ns &quot;priest.core&quot;} {:command &quot;(:regions (-&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n              (sellers-promises-scheme)\n              (sellers)\n              (regions)))&quot;, :offset 110, :ns &quot;priest.core&quot;} {:command &quot;(sellers-per-promise \&quot;input.csv\&quot;)&quot;, :offset 33, :ns &quot;priest.core&quot;} {:command &quot;(-&gt; \&quot;input.csv\&quot;\n    (sellers-per-promise)\n    (sellers-promises-scheme))&quot;, :offset 72, :ns &quot;priest.core&quot;} {:command &quot;(-&gt; \&quot;input.csv\&quot;\n    (sellers-per-promise)\n    (sellers-promises-scheme)\n    (sellers))&quot;, :offset 85, :ns &quot;priest.core&quot;} {:command &quot;(-&gt; \&quot;input.csv\&quot;\n    (sellers-per-promise)\n    (sellers-promises-scheme)\n    (sellers)\n    (regions))&quot;, :offset 99, :ns &quot;priest.core&quot;} {:command &quot;(cons 1 []\n      )&quot;, :offset 17, :ns &quot;priest.core&quot;} {:command &quot;(cons 1 2\n      []\n      )&quot;, :offset 16, :ns &quot;priest.core&quot;} {:command &quot;(cons 1\n      [2]\n      )&quot;, :offset 16, :ns &quot;priest.core&quot;} {:command &quot;(group-by identity [1 2 2 3 3 3 4 4 4 4])&quot;, :offset 41, :ns &quot;priest.core&quot;} {:command &quot;(group-by identity [1 1 2 2 2 3 3 3 3 4 4 4 4 4\n                    ])&quot;, :offset 68, :ns &quot;priest.core&quot;} {:command &quot;(group-by identity [1 1 2 2 2 3 3 3 3 4 4 4 4 4])&quot;, :offset 47, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n             (get-in (:sellers-per-promise sellers-promises) promise))\n           template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce-kv (fn [m k v]\n                    (assoc m k (/ (count v)\n                                  (get (:regions-count-per-seller sellers-promises) k))))\n                  {})))&quot;, :offset 455, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n             (get-in (:sellers-per-promise sellers-promises) promise))\n           template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce-kv (fn [m k v]\n                    (assoc m k (double (/ (count v)\n                                          (get (:regions-count-per-seller sellers-promises) k)))))\n                  {})))&quot;, :offset 472, :ns &quot;priest.core&quot;} {:command &quot;(template-content-avg-adherence* sellers-promises template-content\n                                 )&quot;, :offset 100, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n             (get-in (:sellers-per-promise sellers-promises) promise))\n           template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce (fn [[seller incidences-of-sellers]]\n              (double (/ (count incidences-of-sellers)\n                         (get (:regions-count-per-seller sellers-promises) seller)))))))&quot;, :offset 463, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n              (get-in (:sellers-per-promise sellers-promises) promise))\n            template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce (fn [[seller incidences-of-sellers]]\n                 (double (/ (count incidences-of-sellers)\n                            (get (:regions-count-per-seller sellers-promises) seller)))))))&quot;, :offset 471, :ns &quot;priest.core&quot;} {:command &quot;(template-content-avg-adherence* sellers-promises\n                                 )&quot;, :offset 83, :ns &quot;priest.core&quot;} {:command &quot;(template-content-avg-adherence* sellers-promises template-content template-content)&quot;, :offset 83, :ns &quot;priest.core&quot;} {:command &quot;(template-content-avg-adherence* sellers-promises template-content template-content template-content)&quot;, :offset 100, :ns &quot;priest.core&quot;} {:command &quot;(template-content-avg-adherence*)&quot;, :offset 32, :ns &quot;priest.core&quot;} {:command &quot;(def template-content (first (templates-content sellers-promises)))&quot;, :offset 29, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (println \&quot;starting...\&quot;)\n  (-&gt;&gt; (map (fn [promise]\n              (get-in (:sellers-per-promise sellers-promises) promise))\n            template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce (fn [[seller incidences-of-sellers]]\n                 (double (/ (count incidences-of-sellers)\n                            (get (:regions-count-per-seller sellers-promises) seller)))))))&quot;, :offset 497, :ns &quot;priest.core&quot;} {:command &quot;template-content&quot;, :offset 16, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n              (println \&quot;promise: \&quot; promise)\n              (get-in (:sellers-per-promise sellers-promises) promise))\n            template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce (fn [[seller incidences-of-sellers]]\n                 (double (/ (count incidences-of-sellers)\n                            (get (:regions-count-per-seller sellers-promises) seller)))))))&quot;, :offset 515, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n              ;;(println \&quot;promise: \&quot; promise)\n              (get-in (:sellers-per-promise sellers-promises) promise))\n            template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (println \&quot;pre-reduce: \&quot;)\n       (reduce (fn [[seller incidences-of-sellers]]\n                 (double (/ (count incidences-of-sellers)\n                            (get (:regions-count-per-seller sellers-promises) seller)))))))&quot;, :offset 549, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n              ;;(println \&quot;promise: \&quot; promise)\n              (get-in (:sellers-per-promise sellers-promises) promise))\n            template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce (fn [sum-adhs [seller incidences-of-sellers]]\n                 (+ sum-adhs\n                    (double (/ (count incidences-of-sellers)\n                                        (get (:regions-count-per-seller sellers-promises) seller)))))\n               0)))&quot;, :offset 588, :ns &quot;priest.core&quot;} {:command &quot;(defn template-content-avg-adherence*\n  [sellers-promises template-content]\n  (-&gt;&gt; (map (fn [promise]\n              ;;(println \&quot;promise: \&quot; promise)\n              (get-in (:sellers-per-promise sellers-promises) promise))\n            template-content)\n       (map vec)\n       (apply concat)\n       (group-by identity)\n       (reduce (fn [sum-adhs [seller incidences-of-sellers]]\n                 (+ sum-adhs\n                    (double (/ (count incidences-of-sellers)\n                                        (get (:regions-count-per-seller sellers-promises) seller)))))\n               0)\n       (#(/ % (count (:sellers sellers-promises))))))&quot;, :offset 640, :ns &quot;priest.core&quot;} {:command &quot;(map #(template-content-avg-adherence* sellers-promises %) (take 10 (templates-content sellers-promises)))&quot;, :offset 103, :ns &quot;priest.core&quot;} {:command &quot;(map #(template-content-avg-adherence* sellers-promises %) (take 1 (templates-content sellers-promises)))&quot;, :offset 66, :ns &quot;priest.core&quot;} {:command &quot;(template-content-avg-adherence* sellers-promises template-content)&quot;, :offset 66, :ns &quot;priest.core&quot;} {:command &quot;(def templates (take 2 (templates-content sellers-promises)))&quot;, :offset 58, :ns &quot;priest.core&quot;} {:command &quot;(def templates (first (templates-content sellers-promises)))&quot;, :offset 21, :ns &quot;priest.core&quot;} {:command &quot;(:sellers-per-promise sellers-promises)&quot;, :offset 38, :ns &quot;priest.core&quot;} {:command &quot;(:regions sellers-promises)&quot;, :offset 9, :ns &quot;priest.core&quot;} {:command &quot;(first (templates sellers-promises))&quot;, :offset 6, :ns &quot;priest.core&quot;} {:command &quot;(first (templates-content sellers-promises))&quot;, :offset 25, :ns &quot;priest.core&quot;} {:command &quot;(:regions-leadtimes sellers-promises)&quot;, :offset 19, :ns &quot;priest.core&quot;} {:command &quot;(template-content (:regions-leadtimes sellers-promises))&quot;, :offset 54, :ns &quot;priest.core&quot;} {:command &quot;(template-content \&quot;\&quot;)&quot;, :offset 19, :ns &quot;priest.core&quot;} {:command &quot;(def sellers-promises (-&gt; (sellers-per-promise \&quot;input.csv\&quot;)\n                          (sellers-promises-scheme)\n                          (sellers)\n                          (regions)\n                          (regions-leadtimes)\n                          (regions-count-per-seller)\n                          (regions-sellers)))&quot;, :offset 328, :ns &quot;priest.core&quot;} {:command &quot;(regions-sellers \&quot;\&quot;)&quot;, :offset 18, :ns &quot;priest.core&quot;} {:command &quot;(:regions-sellers sellers-promises)&quot;, :offset 34, :ns &quot;priest.core&quot;} {:command &quot;(def templates (take 3 (templates-content sellers-promises)))&quot;, :offset 22, :ns &quot;priest.core&quot;} {:command &quot;templates&quot;, :offset 9, :ns &quot;priest.core&quot;} {:command &quot;(map #(template-content-avg-adherence* sellers-promises %) (take 3 (templates-content sellers-promises)))&quot;, :offset 66, :ns &quot;priest.core&quot;} {:command &quot;(map #(template-content-avg-adherence* sellers-promises %) (take 100 (templates-content sellers-promises)))&quot;, :offset 68, :ns &quot;priest.core&quot;} {:command &quot;(map #(template-content-avg-adherence* sellers-promises %) (take 1000 (templates-content sellers-promises)))&quot;, :offset 69, :ns &quot;priest.core&quot;} {:command &quot;(:regions-count-per-seller sellers-promises)&quot;, :offset 43, :ns &quot;priest.core&quot;} {:command &quot;(vals (:regions-count-per-seller sellers-promises))&quot;, :offset 5, :ns &quot;priest.core&quot;} {:command &quot;(apply min (vals (:regions-count-per-seller sellers-promises)))&quot;, :offset 10, :ns &quot;priest.core&quot;} {:command &quot;(:sellers sellers-promises)&quot;, :offset 26, :ns &quot;priest.core&quot;} {:command &quot;(count (:sellers sellers-promises))&quot;, :offset 6, :ns &quot;priest.core&quot;} {:command &quot;(conj [] 1\n      )&quot;, :offset 17, :ns &quot;priest.core&quot;} {:command &quot;(conj [] 1 3\n      )&quot;, :offset 19, :ns &quot;priest.core&quot;} {:command &quot;(sort-by (fn [[_ v]] v) {:a 3 :b 1 :c 2})&quot;, :offset 41, :ns &quot;priest.core&quot;} {:command &quot;(sort-by (fn [[_ v]] (- v)) {:a 3 :b 1 :c 2})&quot;, :offset 23, :ns &quot;priest.core&quot;} {:command &quot;(def sellers-promises (-&gt; \&quot;input.csv\&quot;\n                          (sellers-per-promise)\n                          (sellers-promises-scheme)\n                          (sellers)\n                          (regions)\n                          (regions-leadtimes)\n                          (regions-count-per-seller)\n                          (regions-sellers)))&quot;, :offset 354, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv (fn [m reg [lt ss]] (assoc m reg {lt (count ss)})) {} (:sellers-per-promise sellers-promises))&quot;, :offset 103, :ns &quot;priest.core&quot;} {:command &quot;(def sellers-promises (-&gt; \&quot;input.csv\&quot;\n                          (sellers-per-promise)\n                          (sellers-promises-scheme)))&quot;, :offset 139, :ns &quot;priest.core&quot;} {:command &quot;sellers-promises&quot;, :offset 16, :ns &quot;priest.core&quot;} {:command &quot;(reduce-kv (fn [m reg reg-sellers-promises]\n             (assoc m reg (reduce-kv\n                            (fn [mm lt ss]\n                              (assoc mm lt (count ss)))\n                            {}\n                            reg-sellers-promises)))\n           {}\n           (:sellers-per-promise sellers-promises))&quot;, :offset 326, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (reduce-kv (fn [m reg reg-sellers-promises]\n              (assoc m reg (reduce-kv\n                             (fn [mm lt ss]\n                               (assoc mm lt (count ss)))\n                             {}\n                             reg-sellers-promises)))\n            {}\n            (:sellers-per-promise sellers-promises))\n     (sort-by (fn [[_ v]] (- v))))&quot;, :offset 375, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (reduce-kv (fn [m reg reg-sellers-promises]\n              (assoc m reg (reduce-kv\n                             (fn [mm lt ss]\n                               (assoc mm lt (count ss)))\n                             {}\n                             reg-sellers-promises)))\n            {}\n            (:sellers-per-promise sellers-promises))\n     (reduce-kv (fn [mm reg ps] (assoc mm reg (sort-by (fn [[_ v]] (- v)) ps)))))&quot;, :offset 387, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (reduce-kv (fn [m reg reg-sellers-promises]\n              (assoc m reg (reduce-kv\n                             (fn [mm lt ss]\n                               (assoc mm lt (count ss)))\n                             {}\n                             reg-sellers-promises)))\n            {}\n            (:sellers-per-promise sellers-promises))\n     (reduce-kv (fn [mm reg ps] (assoc mm reg (sort-by (fn [[_ v]] (- v)) ps))) {}))&quot;, :offset 422, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (reduce-kv (fn [m reg reg-sellers-promises]\n              (assoc m reg (reduce-kv\n                             (fn [mm lt ss]\n                               (assoc mm lt (count ss)))\n                             {}\n                             reg-sellers-promises)))\n            {}\n            (:sellers-per-promise sellers-promises))\n     (reduce-kv (fn [mm reg ps] (assoc mm reg (sort-by (fn [[_ v]] (- v)) ps))) {})\n     (reduce-kv (fn [m k v] (assoc m k (keys v))) {}))&quot;, :offset 478, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (:sellers-per-promise sellers-promises)\n     (reduce-kv (fn [m reg reg-sellers-promises]\n                  (assoc m reg (reduce-kv\n                                 (fn [mm lt ss]\n                                   (assoc mm lt (count ss)))\n                                 {}\n                                 reg-sellers-promises)))\n                {})\n     (reduce-kv (fn [mm reg ps] (assoc mm reg (sort-by (fn [[_ v]] (- v)) ps))) {})\n     (sort-by (fn [[_ v]] (second (first v)))))&quot;, :offset 489, :ns &quot;priest.core&quot;} {:command &quot;(-&gt;&gt; (:sellers-per-promise sellers-promises)\n     (reduce-kv (fn [m reg reg-sellers-promises]\n                  (assoc m reg (reduce-kv\n                                 (fn [mm lt ss]\n                                   (assoc mm lt (count ss)))\n                                 {}\n                                 reg-sellers-promises)))\n                {})\n     (reduce-kv (fn [mm reg ps] (assoc mm reg (sort-by (fn [[_ v]] (- v)) ps))) {})\n     (sort-by (fn [[_ v]] (- (second (first v))))))&quot;, :offset 470, :ns &quot;priest.core&quot;} {:command &quot;(defn sellers-count-per-leadtime\n  \&quot;receives a map with leadtime as key and a set with its respective sellers as value\n  and returns a map with leadtime as key and the count of sellers for that leadtime as value\&quot;\n  [leadtimes-sellers]\n  (reduce-kv\n    (fn [sellers-count-per-leadtime leadtime sellers]\n      (assoc sellers-count-per-leadtime leadtime (count sellers)))\n    {}\n    leadtimes-sellers))&quot;, :offset 399, :ns &quot;priest.core&quot;} {:command &quot;(sellers-count-per-leadtime {:a #{1 2} :b #{1 2 3} :c #{1 2 3 4}})&quot;, :offset 66, :ns &quot;priest.core&quot;} {:command &quot;(some (fn [k v] (= 1 v)) {:a 1 :b 2})&quot;, :offset 35, :ns &quot;priest.core&quot;} {:command &quot;(some (fn [_ v] (= 1 v))\n      {:a 1 :b 2})&quot;, :offset 31, :ns &quot;priest.core&quot;} {:command &quot;(some (fn [[_ v]] (= 1 v)) {:a 1 :b 2})&quot;, :offset 12, :ns &quot;priest.core&quot;} {:command &quot;(some (fn [[_ v]] (= 1 v)) {:a 3\n                            :b 2})&quot;, :offset 61, :ns &quot;priest.core&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.Leiningen REPL">
+    <configuration name="Leiningen REPL" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="priest" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2">
+        <option name="Synchronize Leiningen" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="priest" />
+      <setting name="path" value="$PROJECT_DIR$/src/priest/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/src/priest" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.core" />
+      <item itemvalue="Clojure REPL.Leiningen REPL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.core" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eab98444-c27d-49da-ac77-4debff6eeb65" name="Default Changelist" comment="" />
+      <created>1557491127990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557491127990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07439199" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.17834395" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.42802548" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" anchor="right" id="REPL" order="6" side_tool="true" visible="true" weight="0.4148784" />
+      <window_info anchor="right" id="Leiningen" order="7" weight="0.32890856" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.10032716" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="REPL" order="3" side_tool="true" />
+      <window_info anchor="right" id="Leiningen" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/input-old.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/priest/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#170#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

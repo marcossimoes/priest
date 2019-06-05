@@ -1,0 +1,13 @@
+region,leadtime,seller
+sp,2-3days,123
+sp,2-3days,456
+sp,2-3days,789
+sp,4-5days,234
+sp,4-5days,567
+sp,4-5days,890
+rj,2-3days,123
+rj,2-3days,456
+rj,2-3days,890
+rj,4-5days,234
+rj,4-5days,567
+rj,4-5days,789
